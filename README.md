@@ -4,7 +4,7 @@
 
 ## 📋 Description
 
-Welcome to the **FitnessGym-Website** repository! This project showcases a modern and fully responsive fitness website built with React, offering dynamic features such as a product shop, trainer profiles, gym services, and interactive schedules. The platform delivers an engaging experience for fitness enthusiasts with cutting-edge frontend technologies.
+Welcome to the **FitnessGym-Web-App** repository! This project showcases a modern and fully responsive fitness website built with React, offering dynamic features such as a product shop, trainer profiles, gym services, and interactive schedules. The platform delivers an engaging experience for fitness enthusiasts with cutting-edge frontend technologies.
 
 This repository demonstrates best practices in React development, component-based architecture, and modern web design patterns for fitness and wellness platforms.
 
@@ -28,8 +28,8 @@ FitnessGym-Website/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/dawidolko/FitnessGym-Website.git
-cd FitnessGym-Website
+git clone https://github.com/dawidolko/FitnessGym-Web-App.git
+cd FitnessGym-Web-App
 ```
 
 ### 2. Install Dependencies
@@ -136,7 +136,7 @@ Feel free to open issues or reach out through GitHub for any questions or sugges
 
 ## 👨‍💻 Author
 
-Created by **Dawid Olko** - Part of the **FitnessGym** project series.
+Created by **Metasebiyaw Asfaw** - Part of the **FitnessGym** project series.
 
 ## 📄 License
 
