@@ -117,7 +117,7 @@ npm start
 
 ## 🌍 Live Demo
 
-The project is deployed and available at: **[https://fitnessgym.dawidolko.pl](https://fitnessgym.dawidolko.pl)**
+The project is deployed and available at: **[https://fitnesgym.vercel.app](https://fitnesgym.vercel.app)**
 
 ## 🖼️ Preview
 
