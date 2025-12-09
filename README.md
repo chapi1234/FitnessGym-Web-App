@@ -28,7 +28,7 @@ FitnessGym-Website/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/dawidolko/FitnessGym-Web-App.git
+git clone https://github.com/chapi1234/FitnessGym-Web-App.git
 cd FitnessGym-Web-App
 ```
 
